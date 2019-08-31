@@ -1,0 +1,113 @@
+body{
+    background-image: url(bmw-m5-wallpapers-31902-133239.jpg);
+    background-size: cover;
+    background-position: fill;
+ 
+}
+
+.center{
+    padding: 0 90px;
+  padding-top: 50px;
+  padding-left: 400px;
+  color: white;
+}
+.heading{
+    margin-left:150px;
+    font-size: 30px;
+}
+
+.time{
+    font-size: 25px;
+    color:white;
+    margin-left: 30px;  
+}
+
+#box1{
+    width:200px;
+    height: 100px;
+    padding-top: 0px;
+    margin-top:20px; 
+    margin: 40px;
+    margin-left: 100px;
+    background-color: red;
+    border: 2px solid white;
+
+}
+.box{
+    
+        width:200px;
+        height: 100px;
+        padding-top:0px;
+        padding-bottom: 0px;
+        margin-top:40px; 
+        margin: 40px;
+        margin-left: 100px;
+        
+        
+}
+  #box2{
+    width: 150px;
+    height: 150px;
+    padding-top: 0px;
+    margin-top:20px; 
+    margin: 40px;
+    margin-left: 100px;
+    background-color: red;
+    border: 2px solid white;
+    
+
+  }
+  .slots{
+    margin-left: 90px;
+    margin-top:0px;
+    padding-top:0px;
+    font-size: 25px;
+}
+.bt1 input[type="submit"]{
+    margin-left: 140px;
+    background-color:red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    
+}
+.address{
+    margin-left: 90px;
+    font-size: 20px;
+    
+}
+#btn2 input[type="submit"] {
+    margin-left: 175px; 
+     color:white;
+    text-align: center;
+    display: inline-block;
+    background-color:red;
+    font-size: 15px;
+}
+#btn3 input[type="submit"]{
+    margin-left: 100px;
+     color:white;
+     background:red;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+}
+.bt1 input[type="submit"]:hover {
+    cursor: pointer;
+    background: yellow;
+}
+#btn2 input[type="submit"]:hover{
+    cursor: pointer;
+    background: yellow;
+    
+}
+#btn3 input[type="submit"]:hover {
+    cursor: pointer;
+    background: yellow;
+    
+}
+.address{
+    margin-left: 40px;
+}
+
